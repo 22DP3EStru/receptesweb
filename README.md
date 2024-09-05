@@ -1,1 +1,1 @@
-# receptesweb
+# Recepšu mājaslapa
